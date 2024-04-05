@@ -40,6 +40,7 @@ class ViewController: UIViewController {
         smallSize.backgroundColor = .white
         bigSize.backgroundColor = .white
         price.text = "$6.49"
+        price.text = "6.48"
         
     }
     @IBAction func changeToBig(_ sender: UIButton){
